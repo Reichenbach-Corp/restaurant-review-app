@@ -1,0 +1,7 @@
+:root { font-family: Arial, sans-serif; background: #f7f7f7; color: #111; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+main { max-width: 760px; margin: 0 auto; padding: 24px; }
+.card { background: white; border: 1px solid #ddd; border-radius: 14px; padding: 18px; margin: 14px 0; }
+a { color: inherit; }
+button { cursor: pointer; }
